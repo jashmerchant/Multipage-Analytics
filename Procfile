@@ -1,0 +1,1 @@
+web: gunicorn multipage_analyics.wsgi
